@@ -1,0 +1,4 @@
+
+:squid:S3010"%Remove this assignment of "inflater".(Û§ûï
+Šsquid:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(×ÅÇÓûÿÿÿÿ
+]squid:UselessImportCheck"6Remove this unused import 'android.location.Location'.(›¡ì®øÿÿÿÿ

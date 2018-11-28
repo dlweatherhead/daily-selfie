@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DailySelfie</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_delete_all">Delete All</string>
+    <string name="thumb_description">Selfie Thumbnail</string>
+    <string name="selfie_viewer_description">Selected Image</string>
+</resources>

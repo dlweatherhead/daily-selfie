@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <!--<style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">-->
+        <!--&lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+    <!--</style>-->
+
+
+    <!-- THEME Style -->
+    <style name="modernart.theme" parent="@style/Theme.AppCompat.Light">
+        <item name="android:actionBarStyle">@style/modernart.actionBar</item>
+        <item name="actionBarStyle">@style/modernart.actionBar</item>
+        <item name="android:alertDialogStyle">@style/modernart.dialog</item>
+    </style>
+
+    <!-- ActionBar Style -->
+    <style name="modernart.actionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+    </style>
+
+    <style name="modernart.dialog" parent="@style/Theme.AppCompat.Light.Dialog">
+    </style>
+
+</resources>
